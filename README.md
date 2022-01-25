@@ -1,2 +1,1 @@
-# note
-Knowledge Garden
+# Knowledge Garden
