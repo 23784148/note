@@ -1,0 +1,127 @@
+- > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/B5RHHPG8NnTKrpEEnN7TJQ)
+- > 一段手机发展史。
+- ![](https://mmbiz.qpic.cn/mmbiz_png/ePTzepwoNWMh114eeX2h2jVujXwVS3Xfwtp6UIicEu3CibiaA0DDdhiaPn2N6llLLezboAFmScLrm1osaXHxn7TiadA/640?wx_fmt=png){:height 267, :width 776}
+- 目前全球一共发布了多少款手机？
+- 即便是手机行业最资深的人士，恐怕也无法回答出这个问题，不过总有人想试试，科技行业分析师 Ben Wood 就和收藏家 Matt Chatterley 等人共同建立了一个手机博物馆，收集古往今来发布的各种手机。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JBz9pnFta3NWiclBZ3p11WfUQgjsXVNKdj7CCOvLnL5bN8Ot3iamvuPDA/640?wx_fmt=jpeg)
+-
+- ▲
+- 图片来自：CNET
+- 手机博物馆目前已经收集了来自 200 多个品牌，一共 2000 多台手机，团队按照最丑、最畅销、奢华等类别对这 2000 多台手机分类，其中有经典的摩托罗拉 Razer V3、诺基亚 3310，也有史上第一台被广泛使用的手机摩托罗拉 DynaTac 8000x。
+- 逛完这个「数码爱好者乐园」后，我似乎找到了如今智能手机越来越像的原因。
+- ![](https://mmbiz.qpic.cn/mmbiz_png/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1Jsy0DEjDSdlHTIM0IKXZC0V0lpTy6JZPkiczpEGa9Qztx29MkibFSE7Kg/640?wx_fmt=png)
+- 最丑的手机
+- 由于疫情，手机博物馆暂时还无法举办线下展览，人们只能进入线上虚拟博物馆感受这些有趣的手机们。进入网站后，首先映入我眼帘的就是「最丑」分类。
+- ![](https://mmbiz.qpic.cn/mmbiz_png/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JrAcrOt4w1oEpsviaoVYfVzxeWgAAhM9CAp37uUZJvU3Bys6AAAhuia4g/640?wx_fmt=png)
+- 如果说好看总是千篇一律，那么最丑分类中的手机，可谓是丑的千奇百怪，各有特色。
+- **NTT Personal-Paldio 101Y**
+- 相信你和我一样，看到这台手机时脑子里都会窜出一个问号，为什么索尼要造一款造型如此奇怪的手机，硕大圆润的顶盖，甚至盖过了手机按键区，看起来就头戴式耳机的耳罩。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JYsCwbSOlssUEes73GoPZkXvNt5fwzgwK1VV0n2TnickPgx9THiaq6D2Q/640?wx_fmt=jpeg)
+- 根据手机博物馆的介绍，这台 1995 年推出的手机获得了当年的「优良设计奖」，但在如今看来已经颇具讽刺性，因为在手机行业中这台手机被通俗地称作「马桶座」手机。
+- 为什么这么叫，从手机背面看你就知道了。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JKyJEl9wsF5VHTI0aQvSicibfKibHarGdS1fboN5nBic7Gq6aa7lLXmVG8A/640?wx_fmt=jpeg)
+- **三星 P110V**
+- 这是三星特别为沃达丰设计的手机，其中还包含有沃达丰集团标志，造型配色十分鲜艳粉嫩，唯一的问题在于手机顶部那颗硕大的铰链导轨，打乱了手机配色的一体性。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JQHTjr4AaibASSrbo0UlM0hV6IfmX5fEDqmNoPSian7XLx3mRjiajF8b3w/640?wx_fmt=jpeg)
+- 其实这也是三星 P110V 最具特色的设计之一，它可以让这台翻盖手机以多种形式折叠，不仅可以向上翻盖，你也可以十字式甚至是并列叠放的方式排列键盘区和屏幕区，看起来十分炫酷。
+- 这台于 2007 年巴塞罗那 3GSM 世界大会发布的手机，也被认为是活动中最具创新性的工业设计之一。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JzlypJGNn9gaNoph6H4XswzhuVgGE9YRShBU9o8uawPxF0znRm7C7VQ/640?wx_fmt=jpeg)
+- 但它可能忽略了实用性，除了向上翻盖，其他几种方向翻盖设计并没有带来体验提升，日常使用中也基本没有并列叠放键盘和屏幕使用的场景。
+- **诺基亚 7600**
+- 这可能是最丑分类中争议最大的一款手机了，一直以来诺基亚 7600 都被看做是这家公司设计过最具个性、有趣的手机之一，作为一款直板 3G 手机，它采用菱形设计，少有地将按键分配在屏幕两端。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1J1ib3tPJuVUSYD8NM3uMicwiaiawqWDjAWZEF97VTxToGWkqiayGwMCDTibBA/640?wx_fmt=jpeg)
+- 两端的手机盖板也和现在的手机壳一样支持更换，人们可以根据自己的喜好诺基亚 7600 搭配不同的外壳，尽显个性。
+- 有得必有失，诺基亚 7600 激进的设计也让它没法在正面安下一个前置摄像头，但诺基亚却极力宣传视频通话功能，甚至称「诺基亚 7600 为多媒体通信世界打开了一扇新的大门」，显得十分诡异。
+- 再加上人们已经习惯单手操作，而诺基亚 7600 的双列键盘设计更适合双手操作，最终只能成为少数数码爱好者的收藏品。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JiaxTSeSPGqXoHvQZtLcgabiboOWMew3vXoJA5qqbwcGF2bMVHiboIrl8A/640?wx_fmt=jpeg)
+-
+- ▲
+- 图片来自：the vooner
+- 最丑类别中的手机和上面几款类似，都采用了「出格」的设计，但它们大多没有经过实用性、用户习惯的考验，最终成为了小众产品，甚至以如今的审美趋向，被判定为「最丑」。
+- ![](https://mmbiz.qpic.cn/mmbiz_png/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1Jsy0DEjDSdlHTIM0IKXZC0V0lpTy6JZPkiczpEGa9Qztx29MkibFSE7Kg/640?wx_fmt=png)
+- 最畅销的手机
+- 看完最丑，我们再来看看销量最高的手机，它们中有不乏设计出色、功能突出的产品。
+- **诺基亚 3310**
+- 作为史上销量最高的手机之一，诺基亚 3310 的全球销量超过 1.26 亿台。对比同世代的竞争产品，它的设计造型并不算突出，甚至连硬件配置都稍显落后，当时摩托罗拉 V8088 可是已经能使用 WAP 浏览器了，屏幕清晰度也更高。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1Jdz965kqWT97cy4lWPr27Opmfqnaynibhlm55mb2c8eHmXMEGRYMibhEw/640?wx_fmt=jpeg)
+- ▲
+- 从左至右分别为经典款诺基亚 3310，新款诺基亚 3310. 图片来自：CNET
+- 诺基亚的 3310 的成功靠的是短信流行和超强的质量，2000 年左右正是短信服务兴起的时代，而诺基亚 3310 的短信功能支持输入 459 个字，是其他手机短信功能的 3 倍，还搭配有 9 键输入系统，熟悉的用户甚至可以盲操作发送短信。
+- 另一个特色是质量，现在人们调侃诺基亚砸核桃、挡子弹基本都来自于这款手机，极强的抗摔性让它从众多手机中脱颖而出，现在在 Twitter、YouTube 等内容平台都能找到这台手机的各种梗图和二创视频，甚至芬兰政府也将其纳入最能代表国家的 Emoji 表情之一。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JicQciciadLRT42hUZUEDW4KrCK2MefMXVIzAmZibDoVYKgkpAst5teefxg/640?wx_fmt=jpeg)
+-
+- ▲
+- 诺基亚 3310 的 Emoji 表情
+- 2017 年，诺基亚还发布了一台经典复刻版的 Nokia 3310，即便是功能机，在全球部分地区仍然有需求。
+- **摩托罗拉 Razr V3**
+- 在手机博物馆的介绍中，摩托罗拉 Razr V3 原本是一款不应该诞生的手机，因为当时按照摩托罗拉的开发流程要求，一款手机至少预估销量能达到 300 万台，才能进入决策流程当中。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1Jic0IT1Ps8RBBia0w8nfkQd9rIsxD4x6tWRROKNO9XPSA5Z1vZfB9dqhg/640?wx_fmt=jpeg)
+-
+- ▲
+- 博物馆团队中含有手机通讯行业资深人士，往往能获得一些市面上少见的信息. 图片为摩托罗拉 Razr V3 原型机
+- 而在产品评估会议上这台特别的手机预估销量才 80 万台，摩托罗拉 Razr V3 的制造难度很高，要保持通信天线不凸出，外部屏幕就只能采用单色显示屏，而制作这款手机蚀刻键盘的供应商也只有一家，短时间内能生产的数量有限。
+- 更重要的是，没有运营商承诺销售计划，要知道当时运营商可是手机销量的保证，摩托罗拉 Razr V3 高达 1000 美元的售价，没有人看好它。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JlUTB9sFesC6tyiaRsy2DOWgUTBn2m2ZgdxJYAYMWVtXA14jAkdAb0rA/640?wx_fmt=jpeg)
+-
+- ▲
+- Razr V3. 图片来自：unsplash
+- 最终，前摩托罗拉副总裁 Roger Jellicoe 力排众议，以内部隐秘项目形式推动，将这款「未来手机」造了出来，并于 2003 年发售。
+- 简洁、锐利、酷是人们看到它的第一印象，整机重量仅 95g，即便售价奇高，它也获得了追捧，发售前摩托罗拉对于它的销量预测是 100 万台，结果这个目标很快就被突破了，发售 4 年间，其销量突破 1.3 亿台，成为全球销量最高的手机之一。
+- 2020 年，摩托罗拉试图以折叠屏的形式重新推出 Razr 系列，是当年折痕最浅的折叠屏手机，可惜较低的配置和高昂的售价拖了后腿，难以重现 V3 的风采。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1J2oH6te0lIh5bVVSFHzz8c0570BKXLlKs3BAH7ADTr72IvjxNbqSoHQ/640?wx_fmt=jpeg)
+-
+- ▲
+- 摩托罗拉 Razr 5G
+- **iPhone 6**
+- 前面提到的大多都是功能机，iPhone 6 系列是分类中少有的智能手机。
+- 在整个 iPhone 系列中，iPhone 6 也属于变化较大的一代，从 iPhone 5S 的直角金属改为更圆润的设计，在加上增大的屏幕，搭配 iOS 系统，产品力在当时的产品当属顶尖。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1J02XeDOnAiaYBicNdz5oRIAVqeffEMZfFichVfbpuAiauyadeIKE9XWaCNg/640?wx_fmt=jpeg)
+- 产品外形的巨大变化，再加上赶上了智能手机普及潮和老用户换机大潮，内外都发力促成了 iPhone 6 系列的大卖，截止 2017 年 6 月，系列全球销量就已经突破了 2.224 亿部，至今还没有新的 iPhone 突破这一纪录。
+- ![](https://mmbiz.qpic.cn/mmbiz_png/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1Jsy0DEjDSdlHTIM0IKXZC0V0lpTy6JZPkiczpEGa9Qztx29MkibFSE7Kg/640?wx_fmt=png)
+- 从各式各样走向统一
+- 2000 多台，手机博物馆几乎展示了手机发展史，这里有史上第一台手机摩托罗拉 DynaTac 8000x，和砖头一样大的造型，充电 10 小时通话 30 分钟，3000 多美元的高价，以现在的眼光看这十分落后，但对于当时的人而言，这可是个高端产品。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JIxBlbasDBgqkZU7Ww5cwmxVJASkZDhyPpxFrQ3kJc5VficLdFLibok1A/640?wx_fmt=jpeg)
+- 1987 年电影《华尔街》中就出现了戈登・盖柯 (Gordon Gekko) 使用 DynaTac 8000x 的画面，这台逐渐成为一种文化符号，象征着高端商业人士工具，在国内还博得了一个「大哥大」的称号。
+- 摩托罗拉 DynaTac 8000x 迅速风靡，从它开始手机正式进入人们的生活。
+- 之后的手机发展便不断往更轻更小发展，有了轻巧坚固的诺基亚 3310，造型超前的摩托罗拉 Razar V3，这期间手机也出现了各种分支，比如奢侈品，手机博物馆就专门为其制定了一个分类。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1J3XWC6hOEbTEJUBAnWhJw0ZfOIQ1Z01af4YSfiabLWrxHgEzyib4pAUKA/640?wx_fmt=jpeg)
+-
+- ▲
+- 黑莓保时捷设计 P’9981
+- 除了大众比较熟悉的 Vetu 系列手机，以稳定著称的黑莓也曾推出过奢华版，那就是，售价高达 2300 美元。
+- 当时由于保时捷设计公司的 CEO 十分喜爱黑莓品牌，就设法生产黑莓的公司建立了联系，双方合作下推出了这款产品，这款手机由一整块不锈钢加工而成，完整的 qwerty 键盘也都是金属制程，而拨号等按键则采用玻璃。
+- 值得一提的是，黑莓还曾生产 24 克拉黄金版本的黑莓保时捷设计 P’9981，每台成本价就高达 25000 美元。
+- ![](https://mmbiz.qpic.cn/mmbiz_jpg/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JAnkFegUY7hgopYcJmmCOwcrfyeCC3l4HHs79uvczA6U1zXmdy5wdbg/640?wx_fmt=jpeg)
+- 回过头来看如今的智能手机，无论 iPhone 还是 Android，外观造型偏向统一，大家都是正面一整块屏幕，和诺基亚 7600、摩托罗拉 Razar V3 等功能机风格相差较大。
+- 从各式各样到逐渐统一，从最丑系列到销量最高系列，不难发现其中的差别在于设计是否实用、是否真的能带来体验提升，如今大屏、高续航、强调摄影体等几乎框定了手机造型，厂商们在满足用户需求的前提下，在外形上能做出的改变并不多，更安稳的方式往往是推进稳定、小创新的产品。
+- 在全球市场份额越来越固定，几个大型厂商独占鳌头的情况下，还有多少厂商愿意和当年的摩托罗拉一下冒着巨大风险，去研发一款摩托罗拉 Razar V3 这样的「未来产品」呢。
+- 更重要的是，这个承载未来的产品，还会不会是手机呢？
+- _注：题图来自 uswitch，文中未标注产品图均来自手机博物馆_
+- ![](https://mmbiz.qpic.cn/mmbiz_png/ePTzepwoNWPwZjLpLgobBcOiaAG0lZW1JZrc14woI6y4cr0BbwLNqXQ4VQxnjy38J0Leia0xKlAKNw3kYALTX4Dg/640?wx_fmt=png)
+- 公众号
+-
+- ![](https://mmbiz.qpic.cn/mmbiz_png/ePTzepwoNWNKwJjZAjxpoG8Eral4pK159zHumKraDdRSib8X98OeZQcWpvl1wFBglD3FeoF8dg5mKaOjcrON10Q/640?wx_fmt=png)
+- [
+- 手机不能拍摄演唱会激光，是真的咩？
+- 点击查看
+- ](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650719431&idx=1&sn=b362baed73e563728b5a65dc9d2bfdd4&chksm=bea6f66089d17f766695dd9f4b3e03e7a4f8aa5a2cc3f1977134e62630c1de6988d2ebccc73f&token=1634410581&lang=zh_CN&scene=21#wechat_redirect)
+- [
+-
+- ](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650719431&idx=1&sn=b362baed73e563728b5a65dc9d2bfdd4&chksm=bea6f66089d17f766695dd9f4b3e03e7a4f8aa5a2cc3f1977134e62630c1de6988d2ebccc73f&token=1634410581&lang=zh_CN&scene=21#wechat_redirect)
+- [
+- 戴上这副手套，我们就能「摸到」元宇宙
+- 点击查看
+- ](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650719243&idx=1&sn=824fcc26d35ce204af552b85700fc7c7&chksm=bea6f6ac89d17fba045537f12fc7c14c81af06ec35c8b2a6565ed04602c9d8d63a6ad74500f9&token=1634410581&lang=zh_CN&scene=21#wechat_redirect)
+- [
+-
+- ](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650719243&idx=1&sn=824fcc26d35ce204af552b85700fc7c7&chksm=bea6f6ac89d17fba045537f12fc7c14c81af06ec35c8b2a6565ed04602c9d8d63a6ad74500f9&token=1634410581&lang=zh_CN&scene=21#wechat_redirect)
+- [
+- 苹果内部的这个神秘团队，决定了 Mac 的形态
+- 点击查看
+- ](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650719963&idx=1&sn=0f94ae90b4e30d75101ab71d1054e964&chksm=bea6f47c89d17d6a9dd35baa4290e8dd4c3d633c929c46539cfdb12c0f07b013db64f88fe2f9&token=1634410581&lang=zh_CN&scene=21#wechat_redirect)
+- [
+-
+- ](http://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2650719963&idx=1&sn=0f94ae90b4e30d75101ab71d1054e964&chksm=bea6f47c89d17d6a9dd35baa4290e8dd4c3d633c929c46539cfdb12c0f07b013db64f88fe2f9&token=1634410581&lang=zh_CN&scene=21#wechat_redirect)
+- 点击「在看」  
+  是对我们最大的鼓励
+- ![](https://mmbiz.qpic.cn/mmbiz_gif/ePTzepwoNWMUuernfHlYvQjO61P3LVYqOM5gAT6osGtWTDjbqMFOqe0CiaZLIqdBB8hCgQG1Qzibp60HJn54fsOA/640?wx_fmt=gif)
