@@ -1,7 +1,7 @@
 > 原文地址 [notes.andymatuschak.org](https://notes.andymatuschak.org/z2ewMN8Hzd8gt4qyfQV1ognJ5PQs3CXxDfCJ?stackedNotes=z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC) at 2022年01月12日 15:38:59
 
 > Readwise is a service which tries to help you remain engaged with interesting ideas you’ve read. It e......
-**将 dr 打造成为类似 Readwise 的闪卡方案。** #参考/标注/Anki  #生产力工具/Readwise  #dr  
+**将 dr 打造成为类似 Readwise 的闪卡方案。** #生产力工具/Readwise  #dr  
 
 ***
 

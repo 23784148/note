@@ -6,7 +6,7 @@ title::  Code 概念
 
   > Digital Garden
 
-  #参考/简悦/文案  #PKM/CODE
+  #PKM/CODE
 # Annoations
 	- C (Collect 收集记录)
 	  
