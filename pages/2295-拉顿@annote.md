@@ -9,13 +9,16 @@ title::  拉顿
             - 和哥吉拉、摩斯拉合稱為東寶三大怪獸，但受歡迎度不及前兩者，在電影中的出場次數也不高。
         - Tags
             - [[哥斯拉/拉顿]]  
+        - Backlinks
+            - 
         - Reference
             - 
 
 # Annoations
 
-- #+BEGIN_QUOTE
-### 出生
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        ### 出生
 
 最初在黑沼健创作的小说《空之大怪兽拉顿》中出现，小说被改编为同名电影《空之大怪兽拉顿》。
 
@@ -30,8 +33,8 @@ title::  拉顿
 造型以无齿翼龙为基础，冠饰缩短并分开为两个或三个，喙部也大幅缩短，颈部、腹部和腿部也设有甲片，腹部甲片上带刺，腿部加粗。
 
 有设定指出拉顿的脚底能喷出喷射气流，有加速飞行的作用。 
-#+END_QUOTE
-    collapsed:: true  
+        #+END_QUOTE
+        collapsed:: true  
         - Note
             -  
         - Tags
