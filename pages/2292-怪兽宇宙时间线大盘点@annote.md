@@ -637,3 +637,371 @@ collapsed:: false
             
              #+END_QUOTE
          - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643783074005>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643783074005>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        ![](https://img1.doubanio.com/view/thing_review/l/public/p5729349.webp) 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796889261>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796889261>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        艾玛和麦迪逊住在中国云南长期研究摩斯拉 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796899081>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796899081>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        南极洲附近的 32 号前哨站，那里研究的对象是王者基多拉，乔纳他们把前哨站的人全部干掉，利用奥卡装置启动苏醒基多拉的模式。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796925333>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796925333>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        ![](https://img9.doubanio.com/view/thing_review/l/public/p5729354.webp) 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796930458>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796930458>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        随即基多拉苏醒被释放出来，一片混乱中人类只有仓皇而逃的份，这时候哥斯拉也现身，两只巨兽初次见面直接开杠厮打在一起。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796940923>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796940923>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        ![](https://img9.doubanio.com/view/thing_review/l/public/p5729355.webp) 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796944673>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796944673>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        帝王组织这边也是一片混乱不明状况，突然这时艾玛连线，原来她并不是人质而是一切的始作俑者。
+
+她在经历丧子之痛后，终于悟了，她认为归根结底这是自然的报复，人口过剩和污染还有战争，造成巨兽一次次前来打扰，他们的目的是恢复大自然的平衡，巨兽破坏的地方，很快都重新恢复了绿意生机，人类其实才是地球的病毒。
+
+所以她要释放出更多巨兽，给地球来一次大洗牌，优胜略汰，让地球重新平衡，一番慷慨激昂的演讲之后众人都呆掉。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796975724>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796975724>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        接着就是艾玛的计划，她释放了莫纳岛火山的巨鸟拉顿，拉顿所飞之处变成一片废墟。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796986222>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796986222>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        ![](https://img1.doubanio.com/view/thing_review/l/public/p5729357.webp) 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796989881>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643796989881>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        基多拉出现，二话不说两巨兽又干在了一起，不下三招拉顿就被干趴下，而这时哥斯拉又从海里冒出，继续要和基多拉再干一回。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797003990>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797003990>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        就在两只巨兽在海里干仗之时，军方又想借机利用新武器” 水中氧气破坏者 “，一箭双雕干掉基多拉和哥斯拉。
+
+炸弹投掷之后，产生巨大威力，遗憾的是基多拉在爆炸中逃离，而哥斯拉被炸得元气大伤沉入到深海，人类感应到哥斯拉心跳停止，认为它可能死了。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797024897>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797024897>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        另一边基多拉也通过吼叫释放频率，苏醒了更多长眠在地球的泰坦巨兽，并要求这些巨兽听从于它的召唤和指挥，最先过来跪舔的，就是刚败北的拉顿。
+
+在中国云南这边，摩斯拉也破茧成蝶 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797043895>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797043895>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        闪着金光的摩斯拉出现在前哨站，并煽动翅膀把光粒子撒入海中替哥斯拉疗伤。
+
+原来在远古时期，哥斯拉是怪兽之王，摩斯拉是怪兽女王，两者有着共生的关系，也就是这时，哥斯拉有了心跳但还是伤得不轻。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797070327>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797070327>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        ![](https://img9.doubanio.com/view/thing_review/l/public/p5729364.webp) 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797075760>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797075760>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        于是芹泽跟着哥斯拉踪迹，去到海底的亚特兰蒂斯国，这个前面也聊过了不多展开。
+
+芹泽在祭坛上找到了哥斯拉，他毫不犹豫启动了核弹，湮灭在巨大的核爆炸中，而哥斯拉遇核重生，还是吃得很撑的那种，体型又重新胖了一大圈，即使没有敌人，能量还多到不得不对天空来一下口爆原子吐息自 high。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797092495>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797092495>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        ![](https://img9.doubanio.com/view/thing_review/l/public/p5729365.webp) 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797095537>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797095537>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        哥斯拉这时出现在这，要和基多拉再战第三回合！
+
+而且哥斯拉女伴摩斯拉也出现加入战斗，拉顿这时也出现，和摩斯拉对战，基多拉这时爆出大重力射线，搞得哥斯拉有点招架不住，摩斯拉这边险胜拉顿但自己也伤得不轻。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797108659>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797108659>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        基多拉见状直接把哥斯拉抓上天，来了个万米自由落地，哥斯拉直接变成火球坠入地面再次奄奄一息。
+
+就在基多拉想要对哥斯拉最后射出重力射线彻底秒了哥斯拉时，女友摩斯拉为爱档射线，壮烈牺牲，摩斯拉死后的能量正好依附到了哥斯拉身上，哥斯拉又加持了一道能量，开始进化红莲状态爆补。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797122529>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797122529>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        红莲哥斯拉很快苏醒，仅仅释放第一招能量波就烧毁了基多拉两颗龙头，接着就是完虐基多拉时候，该吃吃该烧烧，原子吐息直接让基多拉灰飞烟灭。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797139410>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797139410>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        大战结束后，众多泰坦巨兽重新跪倒在哥斯拉的石榴裙尾下，拉顿也不例外。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797145585>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797145585>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        ![](https://img3.doubanio.com/view/thing_review/l/public/p5729370.webp) 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797148809>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797148809>)
+collapsed:: false  
+    - #+BEGIN_QUOTE
+        在最后的新闻报道中，帝王组织发现了摩斯拉的一枚卵，这也说明摩斯拉在大战前给自己留了个种。 
+        #+END_QUOTE
+        collapsed:: true  
+        - Note
+            -  
+        - Tags
+            - 
+        - External reference
+            - 
+        - Association
+           - #+BEGIN_QUOTE
+            
+             #+END_QUOTE
+         - [内部链接](<http://localhost:7026/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797154741>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2292?title=怪兽宇宙时间线大盘点#id=1643797154741>)

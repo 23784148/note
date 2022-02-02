@@ -49,6 +49,72 @@ collapsed:: false
 			  #+END_QUOTE
 			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771668>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771668>)
 			  collapsed:: false
+		- #+BEGIN_QUOTE
+		    军方为消灭巨兽所研发的武器名叫 “氧气破坏者”（Oxygen Destroyer），致敬了 1954 年原版《哥斯拉》中杀死初代哥斯拉的超级武器。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643798398133>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643798398133>)
+				  collapsed:: false
+		- #+BEGIN_QUOTE
+		    ![](https://img9.doubanio.com/view/thing_review/l/public/p2907625.webp) 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643798404784>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643798404784>)
+				  collapsed:: false
+		- #+BEGIN_QUOTE
+		    原版电影中氧气破坏者威力惊人，最终将哥斯拉化成一堆白骨。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643798402155>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643798402155>)
+				  collapsed:: false
+		- #+BEGIN_QUOTE
+		    氧气破坏者还是 1995 年《哥斯拉 vs 戴斯特洛伊亚》中反派怪兽戴斯特洛伊亚的起源。
+		  
+		  由于残留的氧气破坏者影响了生活在海底的远古微生物，令其异变成幼体，最终集合成强大的怪兽 “戴斯特洛伊亚”。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643798410557>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643798410557>)
+				  collapsed:: false
 	- #+BEGIN_QUOTE
 	    芹泽博士 
 	    #+END_QUOTE
@@ -65,6 +131,42 @@ collapsed:: false
 			  #+END_QUOTE
 			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771670>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771670>)
 			  collapsed:: false
+		- #+BEGIN_QUOTE
+		    渡边谦饰演的芹泽猪四郎（Ishiro Serizawa）是帝王组织的主力科学家，这个角色的原型是 1954 年原版《哥斯拉》中的芹泽大助博士，最后用来消灭哥斯拉的氧气破坏者正是他研发的。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643798428497>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643798428497>)
+				  collapsed:: false
+		- #+BEGIN_QUOTE
+		    芹泽猪四郎的名字也致敬了原版《哥斯拉》导演本多猪四郎
+		  
+		  在原版《哥斯拉》中，芹泽博士为了不让氧气破坏者公诸于世而变成可怕的武器，选择销毁所有研究成果，并亲自潜入海中激活装置，最终与哥斯拉同归于尽。
+		  
+		  本片中芹泽博士独自潜入底引爆核弹，让哥斯拉满血复活，同样以自我牺牲的方式完成英雄壮举。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643798449273>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643798449273>)
+				  collapsed:: false
 	- #+BEGIN_QUOTE
 	    怪兽女王——摩斯拉 
 	    #+END_QUOTE
@@ -88,6 +190,38 @@ collapsed:: false
 			  #+END_QUOTE
 			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771672>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771672>)
 			  collapsed:: false
+		- #+BEGIN_QUOTE
+		    ![](https://img1.doubanio.com/view/thing_review/raw/public/p2915359.jpg) 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643798484491>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643798484491>)
+				  collapsed:: false
+		- #+BEGIN_QUOTE
+		    新版本摩斯拉的翅膀花纹采用哥斯拉的眼睛为设计形象，目的是为了对应彼此身为怪兽之王和怪兽女王的关系，也凸显了两者之间的联结。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643798506329>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643798506329>)
+				  collapsed:: false
 	- #+BEGIN_QUOTE
 	    火之恶魔——拉顿 
 	    #+END_QUOTE
@@ -123,22 +257,22 @@ collapsed:: false
 			  #+END_QUOTE
 			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771675>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771675>)
 			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    ![](https://img2.doubanio.com/view/thing_review/raw/public/p2914941.jpg) 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
-			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643771030115>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643771030115>)
-			  collapsed:: false
+		- #+BEGIN_QUOTE
+		    ![](https://img2.doubanio.com/view/thing_review/raw/public/p2914941.jpg) 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643771030115>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643771030115>)
+				  collapsed:: false
 	- #+BEGIN_QUOTE
 	    王者基多拉 
 	    #+END_QUOTE
@@ -202,6 +336,22 @@ collapsed:: false
 			  #+END_QUOTE
 			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771680>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771680>)
 			  collapsed:: false
+		- #+BEGIN_QUOTE
+		    影片中，哥斯拉补充核能并吸收摩斯拉的能量粒子后，身体大面积变成红色，这个形象致敬了 1995 年《哥斯拉 vs 戴斯特洛伊亚》中登场的红莲哥斯拉。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643798543166>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643798543166>)
+				  collapsed:: false
 	- #+BEGIN_QUOTE
 	    泰坦巨兽 
 	    #+END_QUOTE
@@ -218,190 +368,190 @@ collapsed:: false
 			  #+END_QUOTE
 			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771682>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770771682>)
 			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    金刚（Kong）：全世界最具知名度的怪兽之一，首次登场于 1933 年美国同名电影《金刚》。在 2017 年《金刚：骷髅岛》加入怪兽电影宇宙，未来与哥斯拉将有争霸战。 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			- [https://movie.douban.com/review/8430951/](<https://movie.douban.com/review/8430951/>)
-			     [https://movie.douban.com/review/8431649/](<https://movie.douban.com/review/8431649/>)
-		- Association
+		- #+BEGIN_QUOTE
+		    金刚（Kong）：全世界最具知名度的怪兽之一，首次登场于 1933 年美国同名电影《金刚》。在 2017 年《金刚：骷髅岛》加入怪兽电影宇宙，未来与哥斯拉将有争霸战。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				- [https://movie.douban.com/review/8430951/](<https://movie.douban.com/review/8430951/>)
+				     [https://movie.douban.com/review/8431649/](<https://movie.douban.com/review/8431649/>)
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770856355>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770856355>)
+				  collapsed:: false
 			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770856355>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770856355>)
-			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    ![](https://img9.doubanio.com/view/thing_review/l/public/p2912655.webp) 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
+			    ![](https://img9.doubanio.com/view/thing_review/l/public/p2912655.webp) 
+			    #+END_QUOTE
+			    collapsed:: true
+				- Note
+					-
+				- Tags
+					-
+				- External reference
+					-
+				- Association
+					- #+BEGIN_QUOTE
+					  
+					  #+END_QUOTE
+					- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770870644>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770870644>)
+					  collapsed:: false
+		- #+BEGIN_QUOTE
+		    穆托（MUTO）：全名为 Massive Unidentified Terrestrial Organism（未确认巨大陆生生命体），是以放射能源为食的古代巨怪。 穆托是怪兽电影宇宙的原创怪兽，在 2014 年《哥斯拉》中首次登场。前作中哥斯拉已杀死雌雄两只穆托，而在本片中出场的是一只全新的穆托。（可能来自外传漫画中穆透至尊留下的卵） 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770860631>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770860631>)
+				  collapsed:: false
 			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770870644>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770870644>)
-			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    穆托（MUTO）：全名为 Massive Unidentified Terrestrial Organism（未确认巨大陆生生命体），是以放射能源为食的古代巨怪。 穆托是怪兽电影宇宙的原创怪兽，在 2014 年《哥斯拉》中首次登场。前作中哥斯拉已杀死雌雄两只穆托，而在本片中出场的是一只全新的穆托。（可能来自外传漫画中穆透至尊留下的卵） 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
+			    ![](https://img1.doubanio.com/view/thing_review/l/public/p2915429.webp) 
+			    #+END_QUOTE
+			    collapsed:: true
+				- Note
+					-
+				- Tags
+					-
+				- External reference
+					-
+				- Association
+					- #+BEGIN_QUOTE
+					  
+					  #+END_QUOTE
+					- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770873495>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770873495>)
+					  collapsed:: false
+		- #+BEGIN_QUOTE
+		    *   斯库拉（Scylla）：原型是希腊神话中专吃水手的女海妖，拥有六颗头和十二条腿。 影片中斯库拉的形象为长着触须和节肢长腿的泰坦巨兽。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770865552>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770865552>)
+				  collapsed:: false
 			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770860631>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770860631>)
-			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    ![](https://img1.doubanio.com/view/thing_review/l/public/p2915429.webp) 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
+			    ![](https://img2.doubanio.com/view/thing_review/l/public/p2915772.webp) 
+			    #+END_QUOTE
+			    collapsed:: true
+				- Note
+					-
+				- Tags
+					-
+				- External reference
+					-
+				- Association
+					- #+BEGIN_QUOTE
+					  
+					  #+END_QUOTE
+					- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770890380>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770890380>)
+					  collapsed:: false
+		- #+BEGIN_QUOTE
+		    玛士撒拉（Methuselah）：出自《圣经旧约》中亚当与夏娃的后代，也是圣经记录中最长寿的人。他的孙子就是建造方舟保护了地球各种动物的诺亚。 影片里在深山中崛起的巨兽名为玛士撒拉。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770902412>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770902412>)
+				  collapsed:: false
 			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770873495>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770873495>)
-			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    *   斯库拉（Scylla）：原型是希腊神话中专吃水手的女海妖，拥有六颗头和十二条腿。 影片中斯库拉的形象为长着触须和节肢长腿的泰坦巨兽。 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
+			    ![](https://img9.doubanio.com/view/thing_review/l/public/p2912654.webp) 
+			    #+END_QUOTE
+			    collapsed:: true
+				- Note
+					-
+				- Tags
+					-
+				- External reference
+					-
+				- Association
+					- #+BEGIN_QUOTE
+					  
+					  #+END_QUOTE
+					- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770908055>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770908055>)
+					  collapsed:: false
+		- #+BEGIN_QUOTE
+		    贝希摩斯（Behemoth）：《圣经》中出现的怪物，与利维坦一样在上帝创世纪第六天用粘土所创造。从词源上来讲，"Behemoth" 可以表示所有巨大、笨重和未知的动物。 影片中看起来像猛犸象的巨兽就叫做贝希摩斯。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770910965>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770910965>)
+				  collapsed:: false
 			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770865552>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770865552>)
-			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    ![](https://img2.doubanio.com/view/thing_review/l/public/p2915772.webp) 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
-			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770890380>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770890380>)
-			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    玛士撒拉（Methuselah）：出自《圣经旧约》中亚当与夏娃的后代，也是圣经记录中最长寿的人。他的孙子就是建造方舟保护了地球各种动物的诺亚。 影片里在深山中崛起的巨兽名为玛士撒拉。 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
-			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770902412>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770902412>)
-			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    ![](https://img9.doubanio.com/view/thing_review/l/public/p2912654.webp) 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
-			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770908055>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770908055>)
-			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    贝希摩斯（Behemoth）：《圣经》中出现的怪物，与利维坦一样在上帝创世纪第六天用粘土所创造。从词源上来讲，"Behemoth" 可以表示所有巨大、笨重和未知的动物。 影片中看起来像猛犸象的巨兽就叫做贝希摩斯。 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
-			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770910965>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770910965>)
-			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    ![](https://img3.doubanio.com/view/thing_review/l/public/p2915480.webp) 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
-			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770916505>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770916505>)
-			  collapsed:: false
-	- #+BEGIN_QUOTE
-	    *   利维坦（Leviathan）：《圣经》中上帝在创世第六天用粘土创造的怪物，能引起巨大的海啸和旋涡，是海中怪物的霸主。影片中利维坦是帝王组织在尼斯湖一带发现的巨型水怪。
-	  *   亚巴顿（Abaddon）：《新约圣经 · 启示录》中掌管无底坑的使者的名字，代表毁灭之地，所到之处必将毁灭。
-	  *   魔克拉 - 姆边贝（Mokele-Mbembe），栖息在刚果河流域沼泽的巨大神秘生物。
-	  *   巴风特（Baphomet）：基督教中有名的羊头恶魔。
-	  *   提亚马特（Tiamat）：巴比伦神话中创造世界的神龙，名字的含义是 “母亲”。
-	  *   萨尔贡（Sargon）：历史人物，阿卡德王国的开创者，古代近东地区最伟大的君主之一。
-	  *   提丰（Typhoon）：希腊神话中的恶魔泰坦。
-	  *   本耶普（Bunyip）：澳大利亚传说中的神秘生物。 
-	    #+END_QUOTE
-	    collapsed:: true
-		- Note
-			-
-		- Tags
-			-
-		- External reference
-			-
-		- Association
-			- #+BEGIN_QUOTE
-			  
-			  #+END_QUOTE
-			- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770931594>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770931594>)
-			  collapsed:: false
+			    ![](https://img3.doubanio.com/view/thing_review/l/public/p2915480.webp) 
+			    #+END_QUOTE
+			    collapsed:: true
+				- Note
+					-
+				- Tags
+					-
+				- External reference
+					-
+				- Association
+					- #+BEGIN_QUOTE
+					  
+					  #+END_QUOTE
+					- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770916505>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770916505>)
+					  collapsed:: false
+		- #+BEGIN_QUOTE
+		    *   利维坦（Leviathan）：《圣经》中上帝在创世第六天用粘土创造的怪物，能引起巨大的海啸和旋涡，是海中怪物的霸主。影片中利维坦是帝王组织在尼斯湖一带发现的巨型水怪。
+		  *   亚巴顿（Abaddon）：《新约圣经 · 启示录》中掌管无底坑的使者的名字，代表毁灭之地，所到之处必将毁灭。
+		  *   魔克拉 - 姆边贝（Mokele-Mbembe），栖息在刚果河流域沼泽的巨大神秘生物。
+		  *   巴风特（Baphomet）：基督教中有名的羊头恶魔。
+		  *   提亚马特（Tiamat）：巴比伦神话中创造世界的神龙，名字的含义是 “母亲”。
+		  *   萨尔贡（Sargon）：历史人物，阿卡德王国的开创者，古代近东地区最伟大的君主之一。
+		  *   提丰（Typhoon）：希腊神话中的恶魔泰坦。
+		  *   本耶普（Bunyip）：澳大利亚传说中的神秘生物。 
+		    #+END_QUOTE
+		    collapsed:: true
+			- Note
+				-
+			- Tags
+				-
+			- External reference
+				-
+			- Association
+				- #+BEGIN_QUOTE
+				  
+				  #+END_QUOTE
+				- [内部链接](<http://localhost:7026/reading/2293?title=泰坦巨兽终极图鉴#id=1643770931594>) |  [外部链接](<https://simpread.pro/@kenshin/reading/2293?title=泰坦巨兽终极图鉴#id=1643770931594>)
+				  collapsed:: false
 	- #+BEGIN_QUOTE
 	    哥斯拉大战金刚 
 	    #+END_QUOTE
