@@ -28,7 +28,7 @@ collapsed:: false
 			-
 		- Association
 			- #+BEGIN_QUOTE
-			    > [[庞贝 - 维基百科，自由的百科全书]]
+			    > [[庞贝]]
 			  
 			     > [[回文]]
 			  
